@@ -30,7 +30,7 @@ contract Lottery {
         require(msg.sender==manager);
         _;
     }
-    function getPlayyers() public view restricted returns (address []) {
+    function getPlayers() public view restricted returns (address []) {
          return players ;
          
     }
