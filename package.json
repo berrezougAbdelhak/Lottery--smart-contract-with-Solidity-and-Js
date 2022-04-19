@@ -1,0 +1,25 @@
+{
+  "name": "lottery--smart-contract-with-solidity-and-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berrezougAbdelhak/Lottery--smart-contract-with-Solidity-and-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berrezougAbdelhak/Lottery--smart-contract-with-Solidity-and-Js/issues"
+  },
+  "homepage": "https://github.com/berrezougAbdelhak/Lottery--smart-contract-with-Solidity-and-Js#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
